@@ -1,2 +1,0 @@
-# mychannels
-iptv personal channels
